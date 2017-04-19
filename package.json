@@ -1,0 +1,34 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jers73/react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jers73/react/issues"
+  },
+  "homepage": "https://github.com/jers73/react#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "material-ui": "^0.17.4",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^1.15.0",
+    "webpack-dev-server": "^1.16.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
